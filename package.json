@@ -1,0 +1,22 @@
+{
+  "name": "dexpoke-api",
+  "version": "1.0.0",
+  "description": "dexpoke-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pache0015/dexpoke-api.git"
+  },
+  "author": "Pacheco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pache0015/dexpoke-api/issues"
+  },
+  "homepage": "https://github.com/pache0015/dexpoke-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
